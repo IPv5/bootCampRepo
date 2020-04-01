@@ -27,8 +27,8 @@ a {
 }
 
 #main-bio,
-#contact-info,
-#bio-image {
+#bio-image,
+#contact-info {
     float: left;
 }
 
